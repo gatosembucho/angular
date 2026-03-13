@@ -1,0 +1,11 @@
+npm install -g @angular/cli@16 
+
+ng version- -- checar versão
+
+ng new "nome da aplicacao" --cria um nova aplcçãoy
+
+
+ng serve/npm start --pra começa
+
+ng generate component components(nome da pasta pra colocar)/input(nome) --criar componete
+
