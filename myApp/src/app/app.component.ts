@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myApp';
+  count = 0;
+  texto = ""
+
+  foiClicado = () =>{
+    this.count++;
+  }
+
+  foiEscrito = ()=>{
+    this.texto=""
+  }
+
+
 }

@@ -1,0 +1,11 @@
+input{
+  background-color:dodgerblue;
+  border:none;
+  border-width: 2px;
+  border-color: black;
+  height:3rem;
+  color:white;
+  cursor:pointer;
+  border-radius: 2px;
+
+}
